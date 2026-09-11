@@ -1,4 +1,4 @@
-# ¡Hola! Soy Vanessa Rivera 👋
+# Hola, Soy Vanessa Rivera 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E86AB&width=500&lines=Ingenier%C3%ADa+en+Ciencia+de+Datos+%40+UV;IA,+Modelos+Estad%C3%ADsticos+%26+Control+de+Calidad;Gesti%C3%B3n+de+Bases+de+Datos+%26+Data+Viz" alt="Typing SVG" />
